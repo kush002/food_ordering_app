@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/food_ordering_app/static/css/main.4acd380c.css",
-    "main.js": "/food_ordering_app/static/js/main.84b23df7.js",
+    "main.css": "/food_ordering_app/static/css/main.71185042.css",
+    "main.js": "/food_ordering_app/static/js/main.7d9f29a9.js",
     "static/media/sunbloom.jpg": "/food_ordering_app/static/media/sunbloom.afc1fa61574b9c7bb39a.jpg",
     "index.html": "/food_ordering_app/index.html",
-    "main.4acd380c.css.map": "/food_ordering_app/static/css/main.4acd380c.css.map",
-    "main.84b23df7.js.map": "/food_ordering_app/static/js/main.84b23df7.js.map"
+    "main.71185042.css.map": "/food_ordering_app/static/css/main.71185042.css.map",
+    "main.7d9f29a9.js.map": "/food_ordering_app/static/js/main.7d9f29a9.js.map"
   },
   "entrypoints": [
-    "static/css/main.4acd380c.css",
-    "static/js/main.84b23df7.js"
+    "static/css/main.71185042.css",
+    "static/js/main.7d9f29a9.js"
   ]
 }
